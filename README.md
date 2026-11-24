@@ -5,7 +5,7 @@
 
 Auditoria de reciprocidad internacional, orientacion geografica y anotaciones x-default en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de busqueda y comercio transfronterizo de **TAVARDT Mexico**.
+Desarrollado y mantenido por la division de ingenieria de busqueda y comercio transfronterizo de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python hreflang_validator.py https://empresa.com.mx -json
 Para analisis integral de posicionamiento internacional:
 
 * **Validador de Etiquetas Hreflang Oficial**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Consultoria en SEO Internacional y Comercio Digital
 
-Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejores Practicas Regionales, consulte al equipo de **TAVARDT Mexico**.
+Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejores Practicas Regionales, consulte al equipo de **TAVARDT**.
 
 ***
 
