@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ingenieria de busqueda y comercio tr
 Requiere Python 3.8 o superior sobre librerias nativas de Python.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/hreflang-validator-mx.git
+git clone https://github.com/TAVARDT/hreflang-validator-mx.git
 cd hreflang-validator-mx
 python hreflang_validator.py https://empresa.com.mx
 ```
