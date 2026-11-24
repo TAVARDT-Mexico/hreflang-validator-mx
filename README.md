@@ -1,14 +1,13 @@
 # Validador de Etiquetas Hreflang y SEO Internacional
 
 [![Validador Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-etiquetas-hreflang/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de reciprocidad internacional, orientacion geografica y anotaciones x-default en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de busqueda y comercio transfronterizo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de ingenieria de busqueda y comercio transfronterizo de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Auditoria de Hreflang y SEO Internacional
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ingenieria de busqueda y comercio tr
 * **Prevencion de Conflictos Canonicos**: Revision de congruencia entre la etiqueta canonical y las rutas hreflang autorreferenciales.
 * **Calificacion de Calidad Internacional**: Evaluacion de 0 a 100 con recomendaciones tecnicas priorizadas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://empresa.com.mx
 Para generar salida estructurada JSON:
 
 ```bash
-python hreflang_validator.py https://empresa.com.mx --json
+python hreflang_validator.py https://empresa.com.mx -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para analisis integral de posicionamiento internacional:
 
-* **[Validador de Etiquetas Hreflang Oficial](https://tools.tavardt.com/mx/validador-etiquetas-hreflang/)**
+* **Validador de Etiquetas Hreflang Oficial**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Consultoria en SEO Internacional y Comercio Digital
 
-Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejores Practicas Regionales, consulte al equipo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejores Practicas Regionales, consulte al equipo de **TAVARDT Mexico**.
