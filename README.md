@@ -6,8 +6,6 @@
 
 Auditoria de reciprocidad internacional, orientacion geografica y anotaciones x-default en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de busqueda y comercio transfronterizo de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Hreflang y SEO Internacional
@@ -38,15 +36,6 @@ python hreflang_validator.py https://empresa.com.mx -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para analisis integral de posicionamiento internacional:
-
-* **Validador de Etiquetas Hreflang Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria en SEO Internacional y Comercio Digital
 
 Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejores Practicas Regionales, consulte al equipo de **TAVARDT**.
@@ -62,7 +51,7 @@ Para crecimiento digital transfronterizo y cumplimiento de Estandares W3C y Mejo
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
